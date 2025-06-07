@@ -1,3 +1,11 @@
+Project Title: Mobile Price Classification using AWS SageMaker (SKlearn Custom Script)
+
+Description:
+This project showcases the end-to-end process of building, training, and deploying a machine learning model for classifying mobile phone price ranges using AWS SageMaker. The workflow includes data preprocessing, feature selection, model training with a custom scikit-learn script, and evaluation. The goal is to predict the price category of mobile phones based on various features such as battery power, RAM, screen size, and more. This project demonstrates how to leverage SageMaker’s managed infrastructure for scalable ML model development and deployment.
+
+
+Prerequisites
+
 Before starting, make sure you have the following set up:
 
 AWS Account: You need an AWS account with administrative access.
@@ -61,5 +69,5 @@ After testing, remember to delete the SageMaker endpoint to avoid additional cha
 
 
 
-Acknowledgments
+Acknowledgments:
 This project was created as part of an End-to-end ML Deployment tutorial by Krish Naik
